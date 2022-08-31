@@ -1,2 +1,3 @@
-# random
-Repo for dumping random pieces of information - blog alike
+# Random things
+
+Just an ordinary site for dumping random intellectual stuff.

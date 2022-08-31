@@ -1,3 +1,4 @@
-# Random things
+# Random thoughts
 
-Just an ordinary site for dumping random intellectual stuff.
+If I look into something I need to study and learn, I will try to summarize some parts here.
+

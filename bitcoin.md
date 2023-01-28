@@ -1,8 +1,11 @@
+# Bitcoin
 
 
 # HD Wallets - BIP 32 Hierarchical Deterministic Wallets
 
-## mnemonic
+
+
+## mnemonic (sometimes also called seed)
 
 Some random words (12-24) which generate the [seed of a wallet](./#seed) - a sequence of random bytes.
 SUPER SECRET SHIT!!!
@@ -40,3 +43,5 @@ Good for privacy (addresses and balances are public)
 entropy (seed mnemonic) -> BIP39 Mnemonic -> BIP32 root key -> HD Wallet
 entropy (seed mnemonic) -> ElectrumV2 Mnemonic -> ElectrumV2 root key -> HD Wallet
 ```
+
+https://walletsrecovery.org/

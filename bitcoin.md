@@ -45,3 +45,16 @@ entropy (seed mnemonic) -> ElectrumV2 Mnemonic -> ElectrumV2 root key -> HD Wall
 ```
 
 https://walletsrecovery.org/
+
+
+
+- [generate bip39 by hand](./extras/bip39-by-hand-backup)
+<!-- https://gist.github.com/atoponce/44d50f0bbcd06811c8c8eeef13b79585 -->
+
+- bitcoin seed xor: https://seedxor.com/
+
+- How To Make Your Own Crypto Steel Recovery Seed Backup for Only $3.35
+https://johnchow.com/how-to-make-your-own-crypto-steel-recovery-seed-backup/
+
+- frontend tool to generate and check mnemonics, etc..
+  https://iancoleman.io/bip39/

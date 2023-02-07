@@ -200,11 +200,11 @@ de quais derivation path são usados pelos vários softwares/hardwares.
 
 https://github.com/modood/btckeygen
 
-BIP32 - Hierarchical Deterministic Wallets
-BIP39 - Mnemonic code for generating deterministic keys
-BIP43 - Purpose Field for Deterministic Wallets
-BIP44 - Multi-Account Hierarchy for Deterministic Wallets
-BIP49 - Derivation scheme for P2WPKH-nested-in-P2SH based accounts
-BIP84 - Derivation scheme for P2WPKH based accounts
-BIP173 - Base32 address format for native v0-16 witness outputs
-SLIP44 - Registered coin types for BIP-0044
+- BIP32 - Hierarchical Deterministic Wallets
+- BIP39 - Mnemonic code for generating deterministic keys
+- BIP43 - Purpose Field for Deterministic Wallets
+- BIP44 - Multi-Account Hierarchy for Deterministic Wallets
+- BIP49 - Derivation scheme for P2WPKH-nested-in-P2SH based accounts
+- BIP84 - Derivation scheme for P2WPKH based accounts
+- BIP173 - Base32 address format for native v0-16 witness outputs
+- SLIP44 - Registered coin types for BIP-0044

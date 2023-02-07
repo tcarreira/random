@@ -1,5 +1,5 @@
 This is just a backup of the original:
-original: https://gist.github.com/atoponce/44d50f0bbcd06811c8c8eeef13b79585
+https://gist.github.com/atoponce/44d50f0bbcd06811c8c8eeef13b79585
 
 # Creating a BIP39 mnemonic 100% by hand (almost)
 This document shows how we can create Bitcoin wallet mnemonic seeds by hand in a provably secure way. It follows

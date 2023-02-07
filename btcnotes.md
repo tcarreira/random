@@ -7,7 +7,7 @@
 - seed to master
   - master private
   - master public
-- derivation
+- derivation (Ledger Nano compatible)
   - `m/49'/0'/0'` (BIP49 P2WPKH-nested-in-P2SH / ‘3’ SegWit addresses)
   - `m/84'/0'/0'` (BIP84 P2WPKH / ‘bc1’ native SegWit addresses)
 
@@ -24,3 +24,4 @@
 https://walletsrecovery.org/
 
 
+# Open Ledger Micro (golang+rpi0)
